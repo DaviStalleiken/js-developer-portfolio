@@ -16,20 +16,24 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/DaviStalleiken/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/DaviStalleiken/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/DaviStalleiken/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/DaviStalleiken/js-developer-portfolio/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
@@ -41,38 +45,44 @@
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+      "Português BR",
+      "Inglês (fluente)",
+      "Espanhol (intermediário - avançado)",
+      "Alemão (iniciante - intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Next.Js Multi-Stack",
+      "url": "https://github.com/DaviStalleiken/multi-stack",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Automação Web com Cypress",
+      "url": "https://github.com/DaviStalleiken/curso-cypress-discovery",
+      "github": true
+    },
+    {
+      "name": "Dreamworld Pokedex",
+      "url": "https://github.com/DaviStalleiken/Pokedex-Synth",
       "github": true
     }
+
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Professor de Inglês / Centro Multicultural Versus",
+      "period": "2023 - até o momento",
+      "description": "Um excelente ambiente de troca de aprendizados junto a professores incríveis das mais variadas línguas e culturas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Técnico de T.I. / Arquivo da Cidade do Rio de Janeiro",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Foi um prazer poder prestar consultoria sobre a documentação e analisar as competências técnicas para a implantação de uma nova base de dados."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Avaliador de Mídias Sociais / Lionbridge",
+      "period": "2019 - 2020",
+      "description": "Foi um prazeroso trabalho remoto para análise e consultoria de publicidade em redes sociais junto a pessoas muito dedicadas e comprometidas."
     }
   ]
 }
